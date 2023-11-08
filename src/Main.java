@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        task1(1);
-        task2(1,2018);
+        task1(1998);
+        task2(0,2018);
         task3(3);
     }
 
@@ -45,6 +45,7 @@ public class Main {
         }
     }
 }
+
 
 
 
